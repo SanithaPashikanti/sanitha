@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <style>
+    body{
+      background-color:#e6ffff;
+    }
+    hr{
+      background-color:black;
+      border-style: double;
+      height:2px;
+
+    }
+  </style>
+  <body>
+    <table CELLSPACING=20>
+      <tr>
+        <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM3-2TG0qSkRO2HXdQPWtcK169VjbBenBCdPWaVVeSJPfaaDbrH58aiNvTODjxaUMoOV2EhO8GVIWfiIDOXsRMpINikq7eVryB72QCnndcqntJepCKIdiV7_tjdqZcSJkGD54qwEzPe8QZQ4hb3rnAH6Vu8E12k2FxrslBOUxlspnWttIWlM8NIPYzTPU/s320/2db3d9c6270ca88cd918a6951ed99ce9-fotor-2023072020611.png" length=150 width=150 /></td>
+        <td><h1  >SANITHA PASHIKANTI</h1><hr NOSHADE><p>B.TECH (PURSUING) IN ELECTRONICS AND COMMUNICATION ENGINEERING
+</p></td>
+      </tr>
+    </table>
+
+
+    <h2>SKILLS:</h2>
+    <hr>
+    <ul>
+      <li>Java programming</li><br>
+      <li>C language programming</li><br>
+      <li>Python programming</li><br>
+      <li>Algorithms</li><br>
+      <li>Data structures</li><br>
+      <li>Calculus</li><br>
+      <li>SQL</li><br>
+    </ul>
+    <h2>PROJECTS:</h2>
+    <hr>
+    <ul>
+      <li>Soil Moisture  </li>
+      <p>Project theme is to check the moisture content in the soil.</p>
+      <li>Alcohol Management</li>
+      <p>Project theme is about how to control youngsters on intake of alcohol.</p>
+      <li>Health care System</li>
+      <p>Project theme is inserting smart features of health care into a smart watch using IOT.</p>
+    </ul>
+
+    <h2>INTERSESTS:</h2>
+    <hr>
+    <ul>
+
+      <li>Business</li><br>
+      <li>Team management</li><br>
+      <li>Creating content(Direction)</li><br>
+      <li>Gaming</li><br>
+    </ul>
+
+
+    <h2>EDUCATION:</h2>
+    <hr>
+    <ul>
+      <li><h2>2020 - 2024</h2></li>
+      <p>B.Tech ,Electronics and Communication</p>
+      <p><a href="https://sritw.org/">Sumathi Reddy Institute of Technology for Women</a></p>
+
+      <p>IEEE Chairperson(Signal processing society)</p>
+      <li><h2>2018 - 2020</h2></li>
+      <p>SENIOR SECONDARY(INTERMEDIATE),MPC</p>
+      <p>SR Junior College for Girls</p>
+
+      <li><h2>2017 - 2018</h2></li>
+      <p>Secondary(X)</p>
+      <p>Tejaswi Educational Institutions</p>
+
+      <p>Class Coordinator</p>
+    </ul>
+    <h2>CERTIFICATES:</h2>
+    <hr>
+    <ul>
+      <li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5I-m6xBAj7NI7opDGiUoPsH7dOWMCCvaa7LC0io6Fa-Rr2m_3wfp8OWEZipGAXiR9wAwHdnelXIUS0O4LYimdAi9T6tRPFkJqBnlxbYYbsDiiTE_vMtOguVFU-Let5KmRqxRBgsc2VVzlcnFIIOVEapkp1TLEVqiN51_yiQJPmQWJdMR8y1R_2A6iR7E/s320/AWS_Academy_Graduate___AWS_Academy_Engineering_Operations_Technicians_Badge20220920-46-15qtjyy_page-0001.jpg">Engineering Operations Technician</a></li>
+      <p>AWS</p>
+      <li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrLsC_7pHtPRvV4mV41VahxDUd-KSIy8o4GcVWpxqEhUug0LERgLKWQ1gjqKeOnl1dMOXsPN8eIb4VEQwtscvkHAaj1nYC4iUR2aEyciQzdunn6XI-oGn-DaJrZ6mgu0CG_X4PXTPpGN-d7nWi-0yVYtjyk2EhFbIaFoWDHIcuHRSorlCv69j3nYS41XM/s320/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20220917-46-1q1pd4h_page-0001.jpg">Cloud Foundations</a></li>
+      <p>AWS</p>
+      <li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj27VQzUQs_38V6Tqy4yi7taHbaOWFQme1rBhCn1s8u6zYMi6YltoCw5NrJ0WPnTybIeBQ8ckjbNWfQ0F-UnX6ZO40E43HhKA2T0Bohqz_PF1RIN5zEQ6-8MT-nj8Rt0ahSUjQyOfszkEecGlYTNIvHW7lKzdEjFiCHm9fCPGUpO_0Yi1KTJjbj3Myshig/s320/AWS_Academy_Graduate___AWS_Academy_Data_Center_Technician_Badge20220918-46-1je8mr4_page-0001.jpg">Data Center Technician</a></li>
+      <p>AWS</p>
+      <li><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0IQrSPKWzMttLvgV3Efjd_SKjIexe_PP3k3RoQyc00nYLOkYtgROY8zSzoDggIrg5UCTR4tUsDddQXdqJAiPIJzkYBYuhf7PKHNLfo1X0nLtaqJpKCZgDiY8_MlBYAa3S6hPEmu1Xkexejd8xqjCoT2kXyrTrRNGcpsSg9sEc00ToI4-tn-ZZsSo1X0/s320/Explore%20ML%20with%20Crowdsource%20Certificate_page-0001.jpg">Machine Learning Beginner</a></li>
+      <p>GOOGLE</p>
+    </ul>
+
+  </body>
+</html>
